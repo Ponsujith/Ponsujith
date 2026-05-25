@@ -23,10 +23,6 @@ From creating secure database-driven apps to automating deployments with CI/CD p
 🔹 Implemented stored procedures, parameterized queries, and robust input validation  
 🔹 Added backup & recovery scripts to ensure data integrity and reliability  
 
-### **Simple CI/CD Pipeline Setup** — *GitHub Actions + .NET App*  
-🔹 Built an automated build-test-deploy pipeline for a sample .NET app  
-🔹 Configured cloud-based deployment (Azure/AWS) for real-world delivery simulation  
-
 ---
 
 ## 🎯 Objectives
@@ -48,5 +44,3 @@ From creating secure database-driven apps to automating deployments with CI/CD p
 - Cisco Networking Academy – IT Essentials (2024)  
 - Cisco Networking Academy – Introduction to Networks (2024)  
 - Diploma in Computer Programming – C, C++, Java, Python (2023)  
-- AWS Cloud Practitioner Essentials *(In Progress)*  
-- CI/CD with GitHub Actions – Coursera *(In Progress)*  
